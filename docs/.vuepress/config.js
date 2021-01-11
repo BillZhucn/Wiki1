@@ -11,7 +11,7 @@ module.exports = {
         externalLinks: { target: '_blank' }
     },
     themeConfig: {
-        docsRepo: 'BillZhucn/WikiTest1',
+        docsRepo: 'BillZhucn/Wiki1',
         docsBranch: 'master',
         docsDir: 'docs',
         editLinks: true,

@@ -1,6 +1,6 @@
 module.exports = {
     title: 'PixelTail Wiki',
-    base: '/',
+    base: '/Wiki1/',
     ga: 'G-EL9XLR0RJR',
     head: [
         ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/BillZhucn/PixelTailWiki/master/favicon.ico' }]

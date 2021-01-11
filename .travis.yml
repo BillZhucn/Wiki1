@@ -5,6 +5,9 @@ install:
   - yarn install # npm ci
 script:
   - yarn vuepress build # npm run docs:build
+branches:
+  only:
+    - master
 deploy:
   provider: pages
   skip_cleanup: true
@@ -12,4 +15,4 @@ deploy:
   github_token: 6f97fbc53c0f68c9e56ae22d068870c693600a07
   keep_history: true
   on:
-    branch: pages
+    branch: master

@@ -12,7 +12,7 @@ module.exports = {
     },
     themeConfig: {
         docsRepo: 'BillZhucn/Wiki1',
-        docsBranch: 'master',
+        docsBranch: 'main',
         docsDir: 'docs',
         editLinks: true,
         editLinkText: '帮助我们完善本页面',

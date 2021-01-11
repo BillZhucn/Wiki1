@@ -10,5 +10,4 @@ deploy:
   skip_cleanup: true
   github_token: 6f97fbc53c0f68c9e56ae22d068870c693600a07
   keep_history: true
-  on:
-    branch: master
+  on: master

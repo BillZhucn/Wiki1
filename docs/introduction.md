@@ -18,7 +18,9 @@ Pixeltail像素尾巴服务器最早从2019年6月开始运营，最初只是一
 
 Pixeltail希望您能够喜爱上这个可爱的毛茸茸世界，在这里与现实中难得一见的兽友见面；在这里与远在他乡的伴侣共同生活；在这里结交志同道合的小动物，互相帮助、互相包容，共同书写如同回家般的亲切无忧的时光。
 
-?> 通常，我们将已经加入/有意向加入的兽迷称为**Tails**
+::: tip  
+通常，我们将已经加入/有意向加入的兽迷称为**Tails**
+:::
 
 如果条件允许，我们将满足Tails的每一个要求。
 
@@ -64,7 +66,7 @@ Pixeltail加入了「看板机」用于转发服务器聊天板的消息至外�
 
 ## Pixeltail的公益性质
 
-Pixeltail是一个公益服务器，坚持且将一直坚持[Minecraft公益服务器公约](https://www.hellomc.co/appoint/appoint.html)，并已经获得[Minecraft中文论坛](www.mcbbs.net)的[公益服认证](https://www.mcbbs.net/thread-1065935-1-1.html)。这意味着，该服务器开放**非强制性赞助**入口，但是赞助者**不会**获得服务器中的任何物品、权限组或头衔和任何的实物礼品。Pixeltail接受的**所有赞助**，都将用于服务器的实际运营中。为了保证赞助资金使用状况的公开透明，我们开放了[赞助资金使用情况的详细记录表格](https://docs.qq.com/sheet/DSEJacGtnY0VpclBG?tab=BB08J2)，并每月更新赞助款使用状况。
+Pixeltail是一个公益服务器，坚持且将一直坚持[Minecraft公益服务器公约](https://www.hellomc.co/appoint/appoint.html)，并已经获得[Minecraft中文论坛](https://www.mcbbs.net/)的[公益服认证](https://www.mcbbs.net/thread-1065935-1-1.html)。这意味着，该服务器开放**非强制性赞助**入口，但是赞助者**不会**获得服务器中的任何物品、权限组或头衔和任何的实物礼品。Pixeltail接受的**所有赞助**，都将用于服务器的实际运营中。为了保证赞助资金使用状况的公开透明，我们开放了[赞助资金使用情况的详细记录表格](https://docs.qq.com/sheet/DSEJacGtnY0VpclBG?tab=BB08J2)，并每月更新赞助款使用状况。
 
 我们坚持认为，将Tails的需求放在首位，做Tails喜欢的服务器是Pixeltail的生命线，是Pixeltail存在的全部价值。Tails在Pixeltail感受到「家」并且希望他继续存在下去，便是对Pixeltail最大的支持。
 

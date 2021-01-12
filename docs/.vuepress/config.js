@@ -29,6 +29,15 @@ module.exports = {
                     ['/introduction.html', '什么是 PixelTail?'],
                     ['/rules.html', '服务器游玩守则']
                 ]
+            },
+            {
+                title: '如何加入PixelTail',
+                collapsable: true,
+                children: [
+                    ['/getting-start/whitelist.html', '如何获取白名单?'],
+                    ['getting-start/littleskin.html', '如何配置外置登录?'],
+                    ['/getting-start/newbie.html', '写给萌新的入服指南']
+                ]
             }
         ],
         lastUpdated: '最后更新',

@@ -82,7 +82,8 @@ Pixeltail是一个公益服务器，坚持且将一直坚持[Minecraft公益服�
 
 如果Pixeltail在某一天终止存在，那么他绝对不可能是因为商业化而消失。 ~~不过真的没钱了还是会停服的~~
 
-![](/assets/logo.png)
+![](/assets/PixelTail Wiki structure.png)
+
  
  <!--
 需要更多修订

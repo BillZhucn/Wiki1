@@ -81,6 +81,8 @@ Pixeltail是一个公益服务器，坚持且将一直坚持[Minecraft公益服�
 我们坚持认为，将Tails的需求放在首位，做Tails喜欢的服务器是Pixeltail的生命线，是Pixeltail存在的全部价值。Tails在Pixeltail感受到「家」并且希望他继续存在下去，便是对Pixeltail最大的支持。
 
 如果Pixeltail在某一天终止存在，那么他绝对不可能是因为商业化而消失。 ~~不过真的没钱了还是会停服的~~
+
+![](/assets/logo.png)
  
  <!--
 需要更多修订
